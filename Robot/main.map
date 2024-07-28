@@ -1,0 +1,1417 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+                              newlib_stubs.o (errno)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                              main.o (__aeabi_idiv)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o) (__aeabi_idiv0)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(addsf3.o)
+                              main.o (__aeabi_fadd)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divsf3.o)
+                              main.o (__aeabi_fdiv)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixsfsi.o)
+                              main.o (__aeabi_f2iz)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsisf.o)
+                              main.o (__aeabi_i2f)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+                              main.o (__aeabi_dadd)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+                              main.o (__aeabi_ddiv)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+                              main.o (__aeabi_dmul)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+                              main.o (__aeabi_dsub)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+                              main.o (__aeabi_d2iz)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+                              main.o (__aeabi_i2d)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(truncdfsf2.o)
+                              main.o (__aeabi_d2f)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o) (__aeabi_uidivmod)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(addsf3.o) (__clzsi2)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+                              main.o (atoi)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                              main.o (fflush)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o) (__sinit)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (_fwalk)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o) (_global_impure_ptr)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (__retarget_lock_init_recursive)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (memset)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o) (_free_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (_malloc_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                              main.o (printf)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                              main.o (puts)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+                              main.o (sprintf)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o) (__sread)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o) (_strtol_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o) (__swbuf_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o) (_write_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o) (__swsetup_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o) (_close_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o) (_ctype_)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-errno.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o) (__errno)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o) (_lseek_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o) (_svfprintf_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o) (_vfprintf_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o) (_read_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o) (memchr)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o) (memcpy)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o) (memmove)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o) (_realloc_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o) (__gnu_thumb1_case_shi)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00010000
+ram              0x20000000         0x00002000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD serial.o
+LOAD UART2.o
+LOAD startup.o
+LOAD newlib_stubs.o
+LOAD D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a
+LOAD D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a
+START GROUP
+LOAD D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a
+LOAD D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a
+LOAD D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libm.a
+END GROUP
+
+.text           0x08000000     0x6408
+ *(.vectors)
+ .vectors       0x08000000       0xb8 startup.o
+                0x08000000                Vectors
+ *(.after_vectors*)
+ .after_vectors
+                0x080000b8       0x28 startup.o
+                0x080000b8                ResetInit
+ *(.text*)
+ .text          0x080000e0      0xfec main.o
+                0x080000e0                delay
+                0x080000fe                GetPeriod
+                0x080001f8                Delay_us
+                0x08000258                wait_1ms
+                0x08000290                waitms
+                0x080002b2                TIM2_Handler
+                0x080003c0                Hardware_Init
+                0x080005bc                SendATCommand
+                0x08000634                main
+ .text          0x080010cc      0x5b4 serial.o
+                0x080010cc                ReadCom
+                0x08001140                WriteCom
+                0x080011e0                initUART
+                0x08001330                USART1_Handler
+                0x0800135c                usart_rx
+                0x0800138c                usart_tx
+                0x080013f4                PutBuf
+                0x08001456                GetBuf
+                0x080014ac                GetBufCount
+                0x080014c0                eputs
+                0x080014fc                eputc
+                0x0800151a                egetc
+                0x08001534                egets
+                0x080015c0                egetc_echo
+                0x080015e6                egets_echo
+ .text          0x08001680      0x5c8 UART2.o
+                0x08001680                ReadCom2
+                0x080016f4                WriteCom2
+                0x08001794                initUART2
+                0x080018e0                USART2_Handler
+                0x0800190c                usart_rx2
+                0x0800193c                usart_tx2
+                0x080019a4                PutBuf2
+                0x08001a06                GetBuf2
+                0x08001a5c                GetBufCount2
+                0x08001a70                eputs2
+                0x08001aac                eputc2
+                0x08001aca                egetc2
+                0x08001ae4                egets2
+                0x08001b70                ReceivedBytes2
+                0x08001b88                egetc_echo2
+                0x08001bae                egets_echo2
+ .text          0x08001c48      0x1a8 startup.o
+                0x08001cc0                initClock
+                0x08001dc8                EXTI2_3_Handler
+                0x08001dc8                TIM21_Handler
+                0x08001dc8                SysTick_Handler
+                0x08001dc8                I2C1_Handler
+                0x08001dc8                PendSV_Handler
+                0x08001dc8                NMI_Handler
+                0x08001dc8                WWDG_Handler
+                0x08001dc8                RTC_Handler
+                0x08001dc8                EXTI4_15_Handler
+                0x08001dc8                DMA_CH4_5_6_7_Handler
+                0x08001dc8                Default_Handler
+                0x08001dc8                LPUART1_Handler
+                0x08001dc8                FLASH_Handler
+                0x08001dc8                EXTI0_1_Handler
+                0x08001dc8                DMA_CH1_Handler
+                0x08001dc8                SPI2_Handler
+                0x08001dc8                DMA_CH2_3_Handler
+                0x08001dc8                I2C2_Handler
+                0x08001dc8                SVC_Handler
+                0x08001dc8                LPTIM1_Handler
+                0x08001dc8                SPI1_Handler
+                0x08001dc8                RCC_Handler
+                0x08001dc8                PVD_Handler
+                0x08001dc8                TIM6_Handler
+                0x08001dc8                TIM22_Handler
+                0x08001dc8                ADC_COMP_Handler
+                0x08001ddc                Hard_Fault_Handler
+ .text          0x08001df0      0x29c newlib_stubs.o
+                0x08001df0                _exit
+                0x08001dfa                _close
+                0x08001e0e                _execve
+                0x08001e30                _fork
+                0x08001e48                _fstat
+                0x08001e64                _getpid
+                0x08001e70                _kill
+                0x08001e90                _link
+                0x08001eb0                _lseek
+                0x08001ec6                _stat
+                0x08001ee2                _times
+                0x08001ef6                _unlink
+                0x08001f14                _wait
+                0x08001f34                _isatty
+                0x08001f5c                _sbrk
+                0x08001fc0                _read
+                0x08002038                _write
+ .text          0x0800208c        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+ .text          0x0800208c      0x1d4 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                0x0800208c                __divsi3
+                0x0800208c                __aeabi_idiv
+                0x08002258                __aeabi_idivmod
+ .text          0x08002260        0x4 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                0x08002260                __aeabi_idiv0
+                0x08002260                __aeabi_ldiv0
+ .text          0x08002264      0x33c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(addsf3.o)
+                0x08002264                __aeabi_fadd
+ .text          0x080025a0      0x230 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divsf3.o)
+                0x080025a0                __aeabi_fdiv
+ .text          0x080027d0       0x40 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixsfsi.o)
+                0x080027d0                __aeabi_f2iz
+ .text          0x08002810       0x9c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsisf.o)
+                0x08002810                __aeabi_i2f
+ .text          0x080028ac      0x678 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+                0x080028ac                __aeabi_dadd
+ .text          0x08002f24      0x5ec D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+                0x08002f24                __aeabi_ddiv
+ .text          0x08003510      0x4d8 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+                0x08003510                __aeabi_dmul
+ .text          0x080039e8      0x724 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+                0x080039e8                __aeabi_dsub
+ .text          0x0800410c       0x6c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+                0x0800410c                __aeabi_d2iz
+ .text          0x08004178       0x60 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+                0x08004178                __aeabi_i2d
+ .text          0x080041d8      0x110 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(truncdfsf2.o)
+                0x080041d8                __aeabi_d2f
+ .text          0x080042e8      0x114 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                0x080042e8                __aeabi_uidiv
+                0x080042e8                __udivsi3
+                0x080043f4                __aeabi_uidivmod
+ .text          0x080043fc       0x3c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+                0x080043fc                __clzsi2
+ .text          0x08004438        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+ .text.atoi     0x08004438        0xc D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+                0x08004438                atoi
+ .text._atoi_r  0x08004444        0xc D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+                0x08004444                _atoi_r
+ .text          0x08004450        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x08004450      0x118 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                0x08004450                __sflush_r
+ .text._fflush_r
+                0x08004568       0x80 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                0x08004568                _fflush_r
+ .text.fflush   0x080045e8       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                0x080045e8                fflush
+ .text          0x08004614        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .text.std      0x08004614       0x48 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0800465c       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x0800465c                _cleanup_r
+ .text.__fp_lock
+                0x0800466c       0x18 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x08004684       0x18 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0800469c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x0800469c                __sfmoreglue
+ .text._cleanup
+                0x080046c8       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x080046c8                _cleanup
+ .text.__sfp_lock_acquire
+                0x080046d8       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x080046d8                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x080046e8       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x080046e8                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x080046f8       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x080046f8                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x08004708       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08004708                __sinit_lock_release
+ .text.__sinit  0x08004718       0x70 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08004718                __sinit
+ .text.__sfp    0x08004788       0x90 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08004788                __sfp
+ .text.__fp_lock_all
+                0x08004818       0x1c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08004818                __fp_lock_all
+ .text.__fp_unlock_all
+                0x08004834       0x1c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08004834                __fp_unlock_all
+ .text          0x08004850        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x08004850       0x36 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                0x08004850                _fwalk
+ .text._fwalk_reent
+                0x08004886       0x40 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                0x08004886                _fwalk_reent
+ .text          0x080048c6        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x080048c6        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x080048c6        0x2 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048c6                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x080048c8        0x2 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048c8                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x080048ca        0x2 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048ca                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x080048cc        0x2 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048cc                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x080048ce        0x2 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048ce                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x080048d0        0x2 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048d0                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x080048d2        0x4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048d2                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x080048d6        0x4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048d6                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x080048da        0x2 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048da                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x080048dc        0x2 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x080048dc                __retarget_lock_release_recursive
+ .text          0x080048de        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x080048de       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+                0x080048de                memset
+ .text          0x080048ee        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ *fill*         0x080048ee        0x2 
+ .text._free_r  0x080048f0       0x94 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+                0x080048f0                _free_r
+ .text          0x08004984        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .text.sbrk_aligned
+                0x08004984       0x44 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x080049c8       0xec D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x080049c8                _malloc_r
+ .text          0x08004ab4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x08004ab4       0x28 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                0x08004ab4                _iprintf_r
+                0x08004ab4                _printf_r
+ .text.printf   0x08004adc       0x34 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                0x08004adc                iprintf
+                0x08004adc                printf
+ .text          0x08004b10        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .text._puts_r  0x08004b10       0xe4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                0x08004b10                _puts_r
+ .text.puts     0x08004bf4       0x14 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                0x08004bf4                puts
+ .text          0x08004c08        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x08004c08       0x24 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+                0x08004c08                _sbrk_r
+ .text          0x08004c2c        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+ .text._sprintf_r
+                0x08004c2c       0x38 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+                0x08004c2c                _sprintf_r
+                0x08004c2c                _siprintf_r
+ .text.sprintf  0x08004c64       0x40 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+                0x08004c64                siprintf
+                0x08004c64                sprintf
+ .text          0x08004ca4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .text.__sread  0x08004ca4       0x28 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08004ca4                __sread
+ .text.__seofread
+                0x08004ccc        0x4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08004ccc                __seofread
+ .text.__swrite
+                0x08004cd0       0x38 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08004cd0                __swrite
+ .text.__sseek  0x08004d08       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08004d08                __sseek
+ .text.__sclose
+                0x08004d34        0xc D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                0x08004d34                __sclose
+ .text          0x08004d40        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+ .text._strtol_l.constprop.0
+                0x08004d40      0x11c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x08004e5c        0x8 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+                0x08004e5c                _strtol_r
+ .text.strtol_l
+                0x08004e64       0x18 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+                0x08004e64                strtol_l
+ .text.strtol   0x08004e7c       0x18 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+                0x08004e7c                strtol
+ .text          0x08004e94        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ .text.__swbuf_r
+                0x08004e94       0xac D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                0x08004e94                __swbuf_r
+ .text.__swbuf  0x08004f40       0x14 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                0x08004f40                __swbuf
+ .text          0x08004f54        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .text._write_r
+                0x08004f54       0x28 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+                0x08004f54                _write_r
+ .text          0x08004f7c        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x08004f7c       0xf0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                0x08004f7c                __swsetup_r
+ .text          0x0800506c        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .text._close_r
+                0x0800506c       0x24 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+                0x0800506c                _close_r
+ .text          0x08005090        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+ .text          0x08005090        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-errno.o)
+ .text.__errno  0x08005090        0xc D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-errno.o)
+                0x08005090                __errno
+ .text          0x0800509c        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x0800509c       0x28 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+                0x0800509c                _lseek_r
+ .text          0x080050c4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x080050c4       0x50 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                0x080050c4                __swhatbuf_r
+ .text.__smakebuf_r
+                0x08005114       0x88 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                0x08005114                __smakebuf_r
+ .text          0x0800519c        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0800519c       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                0x0800519c                __malloc_lock
+ .text.__malloc_unlock
+                0x080051ac       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                0x080051ac                __malloc_unlock
+ .text          0x080051bc        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+ .text.__ssputs_r
+                0x080051bc       0xc4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+                0x080051bc                __ssputs_r
+ .text.__ssprint_r
+                0x08005280      0x100 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+                0x08005280                __ssprint_r
+ .text._svfprintf_r
+                0x08005380      0x200 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+                0x08005380                _svfiprintf_r
+                0x08005380                _svfprintf_r
+ .text          0x08005580        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputc_r
+                0x08005580       0x2a D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x080055aa       0x24 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x080055aa                __sfputs_r
+ .text.__sprint_r
+                0x080055ce       0x1c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x080055ce                __sprint_r
+ *fill*         0x080055ea        0x2 
+ .text._vfprintf_r
+                0x080055ec      0x274 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x080055ec                _vfprintf_r
+                0x080055ec                _vfiprintf_r
+ .text.vfprintf
+                0x08005860       0x18 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x08005860                vfprintf
+                0x08005860                vfiprintf
+ .text          0x08005878        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text._printf_common
+                0x08005878       0xde D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x08005878                _printf_common
+ *fill*         0x08005956        0x2 
+ .text._printf_i
+                0x08005958      0x224 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x08005958                _printf_i
+ .text          0x08005b7c        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .text._read_r  0x08005b7c       0x28 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+                0x08005b7c                _read_r
+ .text          0x08005ba4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x08005ba4       0x24 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+                0x08005ba4                _fstat_r
+ .text          0x08005bc8        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x08005bc8      0x2d0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                0x08005bc8                __sfvwrite_r
+ .text          0x08005e98        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x08005e98       0x24 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+                0x08005e98                _isatty_r
+ .text          0x08005ebc        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .text.memchr   0x08005ebc       0x16 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+                0x08005ebc                memchr
+ .text          0x08005ed2        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x08005ed2       0x12 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                0x08005ed2                memcpy
+ .text          0x08005ee4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .text.memmove  0x08005ee4       0x26 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+                0x08005ee4                memmove
+ .text          0x08005f0a        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x08005f0a       0x5e D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                0x08005f0a                _realloc_r
+ .text          0x08005f68        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x08005f68       0x10 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+                0x08005f68                _malloc_usable_size_r
+ .text          0x08005f78       0x14 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                0x08005f78                __gnu_thumb1_case_shi
+ *(.rodata*)
+ .rodata        0x08005f8c      0x166 main.o
+ *fill*         0x080060f2        0x2 
+ .rodata        0x080060f4       0x7c startup.o
+ .rodata        0x08006170       0x80 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divsf3.o)
+ .rodata        0x080061f0       0x40 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .rodata        0x08006230       0x40 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+ .rodata.__sf_fake_stderr
+                0x08006270       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08006270                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x08006290       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x08006290                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x080062b0       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                0x080062b0                __sf_fake_stdout
+ .rodata._global_impure_ptr
+                0x080062d0        0x4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                0x080062d0                _global_impure_ptr
+ .rodata._ctype_
+                0x080062d4      0x101 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+                0x080062d4                _ctype_
+ .rodata._svfprintf_r.str1.1
+                0x080063d5       0x11 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+ .rodata._vfprintf_r.str1.1
+                0x080063e6       0x11 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .rodata._printf_i.str1.1
+                0x080063e6       0x22 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x08006408                . = ALIGN (0x4)
+                0x08006408                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x08006408                PROVIDE (__init_array_end = .)
+                0x08006408                . = ALIGN (0x4)
+                0x08006408                _etext = .
+
+.glue_7         0x08006408        0x0
+ .glue_7        0x08006408        0x0 linker stubs
+
+.glue_7t        0x08006408        0x0
+ .glue_7t       0x08006408        0x0 linker stubs
+
+.vfp11_veneer   0x08006408        0x0
+ .vfp11_veneer  0x08006408        0x0 linker stubs
+
+.v4_bx          0x08006408        0x0
+ .v4_bx         0x08006408        0x0 linker stubs
+
+.iplt           0x08006408        0x0
+ .iplt          0x08006408        0x0 main.o
+
+.rel.dyn        0x08006408        0x0
+ .rel.iplt      0x08006408        0x0 main.o
+
+.data           0x20000000       0x68 load address 0x08006408
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _data = .
+ *(.data*)
+ .data          0x20000000        0x0 main.o
+ .data          0x20000000        0x0 serial.o
+ .data          0x20000000        0x0 UART2.o
+ .data          0x20000000        0x0 startup.o
+ .data          0x20000000        0x4 newlib_stubs.o
+                0x20000000                environ
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(addsf3.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divsf3.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixsfsi.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsisf.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(truncdfsf2.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .data          0x20000004        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000004        0x4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                0x20000004                _impure_ptr
+ .data.impure_data
+                0x20000008       0x60 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-errno.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x20000068        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                0x20000068                . = ALIGN (0x4)
+                0x20000068                _edata = .
+
+.igot.plt       0x20000068        0x0 load address 0x08006470
+ .igot.plt      0x20000068        0x0 main.o
+
+.bss            0x20000068      0x17c load address 0x08006470
+                0x20000068                _bss = .
+ *(.bss*)
+ .bss           0x20000068       0x14 main.o
+                0x20000068                PWM_Counter
+                0x2000006c                pwm1
+                0x20000070                pwm2
+                0x20000074                pwm3
+                0x20000078                pwm4
+ .bss           0x2000007c       0xa4 serial.o
+                0x2000007c                ComRXBuffer
+                0x200000c8                ComTXBuffer
+                0x20000114                ComOpen
+                0x20000118                ComError
+                0x2000011c                ComBusy
+ .bss           0x20000120       0xa4 UART2.o
+                0x20000120                ComRXBuffer2
+                0x2000016c                ComTXBuffer2
+                0x200001b8                ComOpen2
+                0x200001bc                ComError2
+                0x200001c0                ComBusy2
+ .bss           0x200001c4        0x0 startup.o
+ .bss           0x200001c4        0x8 newlib_stubs.o
+                0x200001c4                __env
+ .bss           0x200001cc        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+ .bss.errno     0x200001cc        0x4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+                0x200001cc                errno
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(addsf3.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divsf3.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixsfsi.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsisf.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(truncdfsf2.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x200001d0        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x200001d0        0x1 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200001d0                __lock___arc4random_mutex
+ .bss.__lock___at_quick_exit_mutex
+                0x200001d1        0x1 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200001d1                __lock___at_quick_exit_mutex
+ .bss.__lock___atexit_recursive_mutex
+                0x200001d2        0x1 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200001d2                __lock___atexit_recursive_mutex
+ .bss.__lock___dd_hash_mutex
+                0x200001d3        0x1 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200001d3                __lock___dd_hash_mutex
+ .bss.__lock___env_recursive_mutex
+                0x200001d4        0x1 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200001d4                __lock___env_recursive_mutex
+ .bss.__lock___malloc_recursive_mutex
+                0x200001d5        0x1 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200001d5                __lock___malloc_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x200001d6        0x1 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200001d6                __lock___sfp_recursive_mutex
+ .bss.__lock___sinit_recursive_mutex
+                0x200001d7        0x1 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200001d7                __lock___sinit_recursive_mutex
+ .bss.__lock___tz_mutex
+                0x200001d8        0x1 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                0x200001d8                __lock___tz_mutex
+ .bss           0x200001d9        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x200001d9        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x200001d9        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ *fill*         0x200001d9        0x3 
+ .bss.__malloc_free_list
+                0x200001dc        0x4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200001dc                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x200001e0        0x4 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200001e0                __malloc_sbrk_start
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-errno.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x200001e4        0x0 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+ *(COMMON)
+                0x200001e4                . = ALIGN (0x4)
+                0x200001e4                _ebss = .
+                [!provide]                PROVIDE (end = .)
+                0x200001e4                PROVIDE (_HeapStart = .)
+                0x20002000                PROVIDE (_StackTop = (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(main.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x2c91
+ .debug_info    0x00000000     0x114e main.o
+ .debug_info    0x0000114e      0x82d serial.o
+ .debug_info    0x0000197b      0x845 UART2.o
+ .debug_info    0x000021c0      0x3ad startup.o
+ .debug_info    0x0000256d      0x724 newlib_stubs.o
+
+.debug_abbrev   0x00000000      0x9f4
+ .debug_abbrev  0x00000000      0x30a main.o
+ .debug_abbrev  0x0000030a      0x1f5 serial.o
+ .debug_abbrev  0x000004ff      0x206 UART2.o
+ .debug_abbrev  0x00000705      0x174 startup.o
+ .debug_abbrev  0x00000879      0x17b newlib_stubs.o
+
+.debug_aranges  0x00000000       0xa8
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 serial.o
+ .debug_aranges
+                0x00000040       0x20 UART2.o
+ .debug_aranges
+                0x00000060       0x28 startup.o
+ .debug_aranges
+                0x00000088       0x20 newlib_stubs.o
+
+.debug_line     0x00000000     0x1641
+ .debug_line    0x00000000      0x818 main.o
+ .debug_line    0x00000818      0x4a4 serial.o
+ .debug_line    0x00000cbc      0x48f UART2.o
+ .debug_line    0x0000114b      0x266 startup.o
+ .debug_line    0x000013b1      0x290 newlib_stubs.o
+
+.debug_str      0x00000000      0xc67
+ .debug_str     0x00000000      0x762 main.o
+                                0x7da (size before relaxing)
+ .debug_str     0x00000762      0x129 serial.o
+                                0x3a3 (size before relaxing)
+ .debug_str     0x0000088b       0xe9 UART2.o
+                                0x3b4 (size before relaxing)
+ .debug_str     0x00000974       0xe8 startup.o
+                                0x2cb (size before relaxing)
+ .debug_str     0x00000a5c      0x20b newlib_stubs.o
+                                0x3c9 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 main.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a serial.o
+ .comment       0x00000049       0x4a UART2.o
+ .comment       0x00000049       0x4a startup.o
+ .comment       0x00000049       0x4a newlib_stubs.o
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x2c main.o
+ .ARM.attributes
+                0x0000002c       0x2c serial.o
+ .ARM.attributes
+                0x00000058       0x2c UART2.o
+ .ARM.attributes
+                0x00000084       0x2c startup.o
+ .ARM.attributes
+                0x000000b0       0x2c newlib_stubs.o
+ .ARM.attributes
+                0x000000dc       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+ .ARM.attributes
+                0x00000108       0x1e D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000126       0x1e D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000144       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(addsf3.o)
+ .ARM.attributes
+                0x00000170       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divsf3.o)
+ .ARM.attributes
+                0x0000019c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x000001c8       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x000001f4       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+ .ARM.attributes
+                0x00000220       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .ARM.attributes
+                0x0000024c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+ .ARM.attributes
+                0x00000278       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+ .ARM.attributes
+                0x000002a4       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+ .ARM.attributes
+                0x000002d0       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+ .ARM.attributes
+                0x000002fc       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(truncdfsf2.o)
+ .ARM.attributes
+                0x00000328       0x1e D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000346       0x1e D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000364       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x00000390       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x000003bc       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000003e8       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000414       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000440       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000046c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000498       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000004c4       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x000004f0       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000051c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .ARM.attributes
+                0x00000548       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000574       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x000005a0       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x000005cc       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x000005f8       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000624       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000650       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000067c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x000006a8       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x000006d4       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000700       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x0000072c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000758       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000784       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x000007b0       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000007dc       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000808       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000834       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000860       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000088c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000008b8       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x000008e4       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000910       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000093c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .ARM.attributes
+                0x00000968       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+ .ARM.attributes
+                0x00000994       0x1e D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+
+.debug_frame    0x00000000     0x1498
+ .debug_frame   0x00000000      0x12c main.o
+ .debug_frame   0x0000012c      0x1e8 serial.o
+ .debug_frame   0x00000314      0x204 UART2.o
+ .debug_frame   0x00000518       0x94 startup.o
+ .debug_frame   0x000005ac      0x228 newlib_stubs.o
+ .debug_frame   0x000007d4       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x000007f4       0x34 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(addsf3.o)
+ .debug_frame   0x00000828       0x38 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divsf3.o)
+ .debug_frame   0x00000860       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixsfsi.o)
+ .debug_frame   0x00000880       0x30 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsisf.o)
+ .debug_frame   0x000008b0       0x38 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+ .debug_frame   0x000008e8       0x3c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+ .debug_frame   0x00000924       0x3c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+ .debug_frame   0x00000960       0x3c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+ .debug_frame   0x0000099c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+ .debug_frame   0x000009c8       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+ .debug_frame   0x000009f4       0x30 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(truncdfsf2.o)
+ .debug_frame   0x00000a24       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000a44       0x40 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+ .debug_frame   0x00000a84       0x68 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000aec      0x170 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000c5c       0x58 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000cb4       0xb0 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x00000d64       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000d84       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000db0       0x50 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000e00       0x50 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000e50       0x44 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+ .debug_frame   0x00000e94       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000ec0       0x48 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+ .debug_frame   0x00000f08       0x90 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000f98       0x78 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+ .debug_frame   0x00001010       0x48 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x00001058       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x00001084       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x000010b0       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x000010dc       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x000010fc       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00001128       0x54 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000117c       0x40 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x000011bc       0x74 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00001230       0x9c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x000012cc       0x54 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00001320       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000134c       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x00001378       0x30 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x000013a8       0x2c D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x000013d4       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000013f4       0x28 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000141c       0x28 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00001444       0x34 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00001478       0x20 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+
+.debug_ranges   0x00000000       0x18
+ .debug_ranges  0x00000000       0x18 startup.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_COMP_Handler                                  startup.o
+ComBusy                                           serial.o
+ComBusy2                                          UART2.o
+ComError                                          serial.o
+ComError2                                         UART2.o
+ComOpen                                           serial.o
+ComOpen2                                          UART2.o
+ComRXBuffer                                       serial.o
+ComRXBuffer2                                      UART2.o
+ComTXBuffer                                       serial.o
+ComTXBuffer2                                      UART2.o
+DMA_CH1_Handler                                   startup.o
+DMA_CH2_3_Handler                                 startup.o
+DMA_CH4_5_6_7_Handler                             startup.o
+Default_Handler                                   startup.o
+Delay_us                                          main.o
+EXTI0_1_Handler                                   startup.o
+EXTI2_3_Handler                                   startup.o
+EXTI4_15_Handler                                  startup.o
+FLASH_Handler                                     startup.o
+GetBuf                                            serial.o
+GetBuf2                                           UART2.o
+GetBufCount                                       serial.o
+GetBufCount2                                      UART2.o
+GetPeriod                                         main.o
+Hard_Fault_Handler                                startup.o
+Hardware_Init                                     main.o
+I2C1_Handler                                      startup.o
+I2C2_Handler                                      startup.o
+LPTIM1_Handler                                    startup.o
+LPUART1_Handler                                   startup.o
+NMI_Handler                                       startup.o
+PVD_Handler                                       startup.o
+PWM_Counter                                       main.o
+PendSV_Handler                                    startup.o
+PutBuf                                            serial.o
+PutBuf2                                           UART2.o
+RCC_Handler                                       startup.o
+RTC_Handler                                       startup.o
+ReadCom                                           serial.o
+ReadCom2                                          UART2.o
+ReceivedBytes2                                    UART2.o
+                                                  main.o
+ResetInit                                         startup.o
+SPI1_Handler                                      startup.o
+SPI2_Handler                                      startup.o
+SVC_Handler                                       startup.o
+SendATCommand                                     main.o
+SysTick_Handler                                   startup.o
+TIM21_Handler                                     startup.o
+TIM22_Handler                                     startup.o
+TIM2_Handler                                      main.o
+TIM6_Handler                                      startup.o
+USART1_Handler                                    serial.o
+USART2_Handler                                    UART2.o
+Vectors                                           startup.o
+WWDG_Handler                                      startup.o
+WriteCom                                          serial.o
+WriteCom2                                         UART2.o
+_HeapStart                                        newlib_stubs.o
+_StackTop                                         newlib_stubs.o
+                                                  startup.o
+__aeabi_d2f                                       D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(truncdfsf2.o)
+                                                  main.o
+__aeabi_d2iz                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixdfsi.o)
+                                                  main.o
+__aeabi_dadd                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+                                                  main.o
+__aeabi_ddiv                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+                                                  main.o
+__aeabi_dmul                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+                                                  main.o
+__aeabi_dsub                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+                                                  main.o
+__aeabi_f2iz                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(fixsfsi.o)
+                                                  main.o
+__aeabi_fadd                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(addsf3.o)
+                                                  main.o
+__aeabi_fdiv                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divsf3.o)
+                                                  main.o
+__aeabi_i2d                                       D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+                                                  main.o
+__aeabi_i2f                                       D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsisf.o)
+                                                  main.o
+__aeabi_idiv                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  UART2.o
+                                                  serial.o
+                                                  main.o
+__aeabi_idiv0                                     D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+__aeabi_idivmod                                   D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+__aeabi_ldiv0                                     D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_dvmd_tls.o)
+__aeabi_uidiv                                     D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+__aeabi_uidivmod                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+__clzsi2                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_clzsi2.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsidf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(subdf3.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(muldf3.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divdf3.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(adddf3.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(floatsisf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(divsf3.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(addsf3.o)
+__divsi3                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_divsi3.o)
+__env                                             newlib_stubs.o
+__errno                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-errno.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+__fp_lock_all                                     D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__fp_unlock_all                                   D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__gnu_thumb1_case_shi                             D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_thumb1_case_shi.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+__init_array_end                                  startup.o
+__init_array_start                                startup.o
+__lock___arc4random_mutex                         D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___atexit_recursive_mutex                   D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___dd_hash_mutex                            D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___env_recursive_mutex                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex                   D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+__lock___sfp_recursive_mutex                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__lock___sinit_recursive_mutex                    D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__lock___tz_mutex                                 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__malloc_free_list                                D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+__malloc_lock                                     D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+__malloc_sbrk_start                               D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+__malloc_unlock                                   D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+__retarget_lock_acquire                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_acquire_recursive                 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__retarget_lock_close                             D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_close_recursive                   D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_init                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_init_recursive                    D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__retarget_lock_release                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_release_recursive                 D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-mlock.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__retarget_lock_try_acquire                       D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__retarget_lock_try_acquire_recursive             D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lock.o)
+__sclose                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__seofread                                        D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+__sf_fake_stderr                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sf_fake_stdin                                   D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sf_fake_stdout                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sflush_r                                        D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sfmoreglue                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sfp                                             D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sfp_lock_acquire                                D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sfp_lock_release                                D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sfputs_r                                        D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+__sfvwrite_r                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+__sinit                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+__sinit_lock_acquire                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sinit_lock_release                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__smakebuf_r                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+__sprint_r                                        D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+__sread                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__sseek                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__ssprint_r                                       D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+__ssputs_r                                        D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+__swbuf                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+__swbuf_r                                         D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+__swhatbuf_r                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+__swrite                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+__swsetup_r                                       D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+__udivsi3                                         D:\Course Work\Second Year\ELEC 281\10 2021.10\lib\gcc\arm-none-eabi\10.3.1\thumb\v6-m\nofp\libgcc.a(_udivsi3.o)
+_atoi_r                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+_cleanup                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+_cleanup_r                                        D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+_close                                            newlib_stubs.o
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+_close_r                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+_ctype_                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-ctype_.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+_data                                             startup.o
+_ebss                                             startup.o
+_edata                                            startup.o
+_etext                                            startup.o
+_execve                                           newlib_stubs.o
+_exit                                             newlib_stubs.o
+_fflush_r                                         D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+_fork                                             newlib_stubs.o
+_free_r                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-freer.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+_fstat                                            newlib_stubs.o
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+_fstat_r                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+_fwalk                                            D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+_fwalk_reent                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fwalk.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+_getpid                                           newlib_stubs.o
+_global_impure_ptr                                D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+_impure_ptr                                       D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-impure.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-errno.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wsetup.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-wbuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                                                  main.o
+_iprintf_r                                        D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+_isatty                                           newlib_stubs.o
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+_isatty_r                                         D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+_kill                                             newlib_stubs.o
+_link                                             newlib_stubs.o
+_lseek                                            newlib_stubs.o
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+_lseek_r                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+_malloc_r                                         D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-makebuf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+_malloc_usable_size_r                             D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-msizer.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+_printf_common                                    D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+_printf_float                                     D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+_printf_i                                         D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+_printf_r                                         D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+_puts_r                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+_read                                             newlib_stubs.o
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+_read_r                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+_realloc_r                                        D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+_sbrk                                             newlib_stubs.o
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+_sbrk_r                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-mallocr.o)
+_siprintf_r                                       D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+_sprintf_r                                        D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+_stat                                             newlib_stubs.o
+_strtol_r                                         D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+_svfiprintf_r                                     D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+_svfprintf_r                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+_times                                            newlib_stubs.o
+_unlink                                           newlib_stubs.o
+_vfiprintf_r                                      D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+_vfprintf_r                                       D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+_wait                                             newlib_stubs.o
+_write                                            newlib_stubs.o
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+_write_r                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-stdio.o)
+atoi                                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+                                                  main.o
+delay                                             main.o
+egetc                                             serial.o
+                                                  newlib_stubs.o
+egetc2                                            UART2.o
+egetc_echo                                        serial.o
+egetc_echo2                                       UART2.o
+egets                                             serial.o
+egets2                                            UART2.o
+                                                  main.o
+egets_echo                                        serial.o
+egets_echo2                                       UART2.o
+environ                                           newlib_stubs.o
+eputc                                             serial.o
+                                                  newlib_stubs.o
+eputc2                                            UART2.o
+eputs                                             serial.o
+                                                  startup.o
+eputs2                                            UART2.o
+                                                  main.o
+errno                                             D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libnosys.a(errno.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-isattyr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fstatr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-readr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-lseekr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-closer.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-writer.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sbrkr.o)
+                                                  newlib_stubs.o
+fflush                                            D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fflush.o)
+                                                  main.o
+initClock                                         startup.o
+initUART                                          serial.o
+                                                  startup.o
+initUART2                                         UART2.o
+                                                  main.o
+iprintf                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+main                                              main.o
+                                                  startup.o
+memchr                                            D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memchr-stub.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+memcpy                                            D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memcpy-stub.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-reallocr.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+memmove                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memmove.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-fvwrite.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-svfprintf.o)
+memset                                            D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-memset.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-findfp.o)
+printf                                            D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-printf.o)
+                                                  main.o
+puts                                              D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-puts.o)
+                                                  main.o
+pwm1                                              main.o
+pwm2                                              main.o
+pwm3                                              main.o
+pwm4                                              main.o
+siprintf                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+sprintf                                           D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-sprintf.o)
+                                                  main.o
+strtol                                            D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+                                                  D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-atoi.o)
+strtol_l                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-strtol.o)
+usart_rx                                          serial.o
+usart_rx2                                         UART2.o
+usart_tx                                          serial.o
+usart_tx2                                         UART2.o
+vfiprintf                                         D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+vfprintf                                          D:\Course Work\Second Year\ELEC 281\10 2021.10\arm-none-eabi\lib\thumb\v6-m\nofp\libc_nano.a(lib_a-nano-vfprintf.o)
+wait_1ms                                          main.o
+waitms                                            main.o

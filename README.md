@@ -45,5 +45,3 @@ The robot and remote are programmed in C. The software includes functionality fo
 - Implement machine learning algorithms to improve autonomous navigation capabilities.
 - Upgrade the communication protocol for increased range and reliability.
 
-## Contributors
-Steven Chen, Vaibhav Grover, Monil Arora, Qilin Song, Pratik Pushkarna, Timothy Yen, Sidhant Sidana
